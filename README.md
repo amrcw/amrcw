@@ -25,84 +25,129 @@ Passionate about software architecture, cloud engineering, AI-assisted developme
 
 # 💡 Technical Skills
 
-### Programming Languages
+<table>
+
+<tr>
+<td width="33%" valign="top">
+
+### 💻 Programming Languages
 
 - PHP
 - Python
-- TypeScript
 - JavaScript
+- TypeScript
 - Node.js
 - SQL
 
-### Backend
+</td>
+
+<td width="33%" valign="top">
+
+### ⚙️ Backend
 
 - Laravel
 - FastAPI
 - Express.js
-- ASP.NET (Learning)
 - REST APIs
 - Microservices
 - Workflow Automation
 
-### Frontend
+</td>
+
+<td width="33%" valign="top">
+
+### 🎨 Frontend
 
 - React
 - Vue.js
 - Angular
 - Livewire
-- Tailwind CSS
 - HTML5
 - CSS3
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+### 🎯 UI & Styling
+
+- Tailwind CSS
 - Bootstrap
+- Material UI
+- Responsive Design
+- Accessibility (WCAG)
 
-### Cloud & DevOps
+</td>
 
-- AWS
-- Azure
-- Docker
-- CI/CD
-- Linux
-- Git
-- GitHub Actions
-- Nginx
-- Apache
+<td width="33%" valign="top">
 
-### Databases
+### 🗄️ Databases
 
 - MySQL
 - PostgreSQL
 - Redis
+- Database Design
+- Query Optimisation
 
-### CMS & E-Commerce
+</td>
 
-- Shopify
-- WordPress
-- WooCommerce
+<td width="33%" valign="top">
 
-### Architecture
+### ☁️ Cloud & Infrastructure
+
+- AWS
+- Azure
+- Docker
+- Linux
+- Nginx
+- Apache
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+### 🚀 DevOps
+
+- Git
+- GitHub
+- GitHub Actions
+- CI/CD
+- Deployment Automation
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🏗️ Architecture
 
 - Clean Architecture
 - MVC
 - SOLID Principles
-- RESTful Design
-- Cloud-Native Applications
-- Event-Driven Architecture
 - Repository Pattern
+- Event-Driven Design
+- Cloud-Native Applications
 
-### Testing
+</td>
 
-- PHPUnit
-- Jest
-- Playwright
-- Selenium
+<td width="33%" valign="top">
 
-### AI Development
+### 🤖 AI & Platforms
 
 - ChatGPT
 - Claude
 - Cursor AI
 - GitHub Copilot
-- Prompt Engineering
+- Shopify
+- WordPress
+
+</td>
+</tr>
+
+</table>
 
 ---
 
